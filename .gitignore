@@ -1,0 +1,26 @@
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# Maven
+log/
+target/
+
+# Inclusions
+!lib/**
+
+# Compiled Files
+*.class
+bin/
+build/
+/bin1/
+java/build/**
